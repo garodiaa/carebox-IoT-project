@@ -1,7 +1,23 @@
-# CareBox Project Overview
 
-## Project Description
+# CareBox - IoT-Based Medicine Reminder Box
+
+![Version](https://img.shields.io/badge/version-1.0.0-red?style=flat)
+![ESP32](https://img.shields.io/badge/ESP32-3C3C3C?logo=espressif&logoColor=white&style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=flat)
+![Blynk](https://img.shields.io/badge/Blynk-27AE60?logo=blynk&logoColor=white&style=flat)
+![IoT](https://img.shields.io/badge/IoT-FF9800?style=flat)
+![License](https://img.shields.io/badge/License-Open%20Source-blue?style=flat)
+
 CareBox is an intelligent IoT-based medicine reminder system designed to help users manage medication schedules effectively. The system uses ESP32 microcontroller, Hall effect sensors, RGB LEDs, and Blynk IoT platform to provide comprehensive medication management with visual, audio, and mobile notifications.
+
+Whether you’re caring for yourself or a loved one, CareBox reduces the risk of missed doses and provides peace of mind with reliable reminders and real-time feedback.
+
+> Struggling to remember your medicine schedule? CareBox is here to help!
+
+## YouTube Video : [https://youtube.com/your-video-link](https://youtube.com/your-video-link)
+
+
+# System Overview
 
 ## Key Features
 

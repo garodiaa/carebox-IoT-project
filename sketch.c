@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL6yo8k98jG"
-#define BLYNK_TEMPLATE_NAME "CareBox"
-#define BLYNK_AUTH_TOKEN "nd2Gd6yMKjrqFs6pEjWPzPVQQYt5miXb"
+#define BLYNK_TEMPLATE_ID "*********"
+#define BLYNK_TEMPLATE_NAME "*********"
+#define BLYNK_AUTH_TOKEN "*********"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -11,8 +11,8 @@
 #include <climits>
 
 // WiFi credentials - replace with your actual network details
-char ssid[] = "DIU_Daffodil Smart City";
-char pass[] = "diu123456789";
+char ssid[] = "wifi-name";
+char pass[] = "wifi-password";
 
 // KY-024 Hall Effect sensor behavior:
 // - HIGH = Magnet present (lid closed) - Blue LED on the KY-024 module will be ON

@@ -1,0 +1,54 @@
+{
+  "name": "linear-hall-effect-module",
+  "author": "MarsLab",
+  "pins": [
+    "VCC",
+    "GND",
+    "D0",
+    "A0"
+  ],
+  "controls": [
+    {
+      "id": "sensitivity",
+      "label": "Sensitivity",
+      "type": "range",
+      "min": 0,
+      "max": 100,
+      "step": 1,
+      "value": 50,
+      "tooltip": "Adjust sensor sensitivity (potentiometer)"
+    },
+    {
+      "id": "magnet",
+      "label": "Magnet",
+      "type": "range",
+      "min": -100,
+      "max": 100,
+      "step": 1,
+      "value": 0,
+      "tooltip": "Simulate magnetic field strength (-100: North pole max, 0: No field, 100: South pole max)"
+    }
+  ],
+  "displays": [
+    {
+      "id": "gauss",
+      "label": "Gauss",
+      "type": "gauge",
+      "min": -200,
+      "max": 200,
+      "value": 0
+    }
+  ],
+  "signals": [
+    {
+      "name": "analog_out",
+      "virtual_pin": 1001,
+      "signal_type": "analog"
+    },
+    {
+      "name": "digital_out",
+      "virtual_pin": 1002,
+      "signal_type": "digital"
+    }
+  ]
+}

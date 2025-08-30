@@ -213,5 +213,5 @@ Final/
 **Project Status**: Production Ready  
 **Last Updated**: August 2025  
 **Version**: 1.0  
-**License**: Open Source (specify license as needed)  
+**License**: Open Source
 **Contributors**: IoT Lab Team

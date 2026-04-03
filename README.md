@@ -68,6 +68,7 @@ Whether you’re caring for yourself or a loved one, CareBox reduces the risk of
 - **Connectivity**: 2.4 GHz WiFi (802.11 b/g/n), local alarms function offline.
 
 ### Project Media
+![Circtui Diagram](https://github.com/user-attachments/assets/77024b89-57b6-47d2-8627-8c2a8cd94cee)
 
 ![3D concept](https://github.com/user-attachments/assets/e8d1c69d-8e5f-4781-98b0-3bf0f8215f79)
 
@@ -79,7 +80,6 @@ Whether you’re caring for yourself or a loved one, CareBox reduces the risk of
 
 ![Mobile UI](https://github.com/user-attachments/assets/f3bdb9ad-0828-4896-a7d5-0c2e5128a83b)
 
-![Circtui Diagram](https://github.com/user-attachments/assets/77024b89-57b6-47d2-8627-8c2a8cd94cee)
 
 
 ### Repository Layout

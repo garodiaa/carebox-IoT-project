@@ -79,6 +79,9 @@ Whether you’re caring for yourself or a loved one, CareBox reduces the risk of
 
 ![Mobile UI](https://github.com/user-attachments/assets/f3bdb9ad-0828-4896-a7d5-0c2e5128a83b)
 
+![Circtui Diagram](https://github.com/user-attachments/assets/77024b89-57b6-47d2-8627-8c2a8cd94cee)
+
+
 ### Repository Layout
 
 ```
